@@ -8,7 +8,7 @@ Desde la carpeta raíz "Climapp" se pueden ejecutar los siguientes comandos:
 
 2. `npm start`: Comienza a correr la aplicación de forma local por lo que se puede ver desde el navegador accediendo a http://localhost:3000
 
-## [DEMO HERE](https://duckduckgo.com).
+## [DEMO HERE](https://feli87.github.io/climapp/).
 
 ![Screenshot](./img-screen/screenshot-full-0.png)
 
