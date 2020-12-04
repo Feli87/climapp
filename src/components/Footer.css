@@ -1,0 +1,17 @@
+.footer{
+  display: flex;
+  position: fixed;
+  bottom:0;
+  width: 100%;
+  height: auto;
+  padding: 5px;
+  justify-content: center;
+  background-color: black;
+  border-top: yellow solid 2px;
+  z-index: 2;
+}
+
+
+.title-footer{
+  color: white;
+}

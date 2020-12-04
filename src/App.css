@@ -1,0 +1,20 @@
+.App {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+body{
+  background-color: rgb(41, 39, 39);
+}
+.alert{
+  background-color: black;
+  border: yellow solid 2px;
+ 
+}
+.text-alert{
+  color: yellow;
+}

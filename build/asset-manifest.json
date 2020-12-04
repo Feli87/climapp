@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wather-app/static/css/main.d56f8f3f.chunk.css",
+    "main.js": "/wather-app/static/js/main.fdb1a1dd.chunk.js",
+    "main.js.map": "/wather-app/static/js/main.fdb1a1dd.chunk.js.map",
+    "runtime-main.js": "/wather-app/static/js/runtime-main.1c856055.js",
+    "runtime-main.js.map": "/wather-app/static/js/runtime-main.1c856055.js.map",
+    "static/js/2.4073a6dd.chunk.js": "/wather-app/static/js/2.4073a6dd.chunk.js",
+    "static/js/2.4073a6dd.chunk.js.map": "/wather-app/static/js/2.4073a6dd.chunk.js.map",
+    "index.html": "/wather-app/index.html",
+    "precache-manifest.84e14b2b7921336c559e6bc77f88482e.js": "/wather-app/precache-manifest.84e14b2b7921336c559e6bc77f88482e.js",
+    "service-worker.js": "/wather-app/service-worker.js",
+    "static/css/main.d56f8f3f.chunk.css.map": "/wather-app/static/css/main.d56f8f3f.chunk.css.map",
+    "static/js/2.4073a6dd.chunk.js.LICENSE.txt": "/wather-app/static/js/2.4073a6dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c856055.js",
+    "static/js/2.4073a6dd.chunk.js",
+    "static/css/main.d56f8f3f.chunk.css",
+    "static/js/main.fdb1a1dd.chunk.js"
+  ]
+}

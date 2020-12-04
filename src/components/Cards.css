@@ -1,0 +1,15 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.sin-ciudades{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 280px ;
+  height: 100px;
+  background-color: rgb(225, 211, 16);
+  color: black;
+  font-size: 32px;
+}

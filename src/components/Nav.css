@@ -1,0 +1,28 @@
+#logoHenry {
+  margin-right: 0px;
+
+
+}
+.box{
+  display: flex;
+  position: fixed;
+  top:0;
+  width: 100%;
+  height: auto;
+  padding: 5px;
+  justify-content: space-between;
+  background-color: black;
+  border-bottom: yellow solid 2px;
+  z-index: 2;
+}
+.nav{
+  padding-right: 10px;
+}
+.logo{
+  margin-top: 8px;
+  width: 150px;
+  height: auto;
+}
+.title{
+  color: white;
+}
