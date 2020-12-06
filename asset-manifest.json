@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/climapp/static/css/main.ad148ef5.chunk.css",
-    "main.js": "/climapp/static/js/main.5d097147.chunk.js",
-    "main.js.map": "/climapp/static/js/main.5d097147.chunk.js.map",
+    "main.css": "/climapp/static/css/main.4338d536.chunk.css",
+    "main.js": "/climapp/static/js/main.2bf2de88.chunk.js",
+    "main.js.map": "/climapp/static/js/main.2bf2de88.chunk.js.map",
     "runtime-main.js": "/climapp/static/js/runtime-main.8520d1c6.js",
     "runtime-main.js.map": "/climapp/static/js/runtime-main.8520d1c6.js.map",
     "static/js/2.b562bfcc.chunk.js": "/climapp/static/js/2.b562bfcc.chunk.js",
     "static/js/2.b562bfcc.chunk.js.map": "/climapp/static/js/2.b562bfcc.chunk.js.map",
     "index.html": "/climapp/index.html",
-    "precache-manifest.f058a6f8d2b823cb7b4c6ede78d26ab8.js": "/climapp/precache-manifest.f058a6f8d2b823cb7b4c6ede78d26ab8.js",
+    "precache-manifest.43e7d351ba87c8f8fae1053151fa2eeb.js": "/climapp/precache-manifest.43e7d351ba87c8f8fae1053151fa2eeb.js",
     "service-worker.js": "/climapp/service-worker.js",
-    "static/css/main.ad148ef5.chunk.css.map": "/climapp/static/css/main.ad148ef5.chunk.css.map",
+    "static/css/main.4338d536.chunk.css.map": "/climapp/static/css/main.4338d536.chunk.css.map",
     "static/js/2.b562bfcc.chunk.js.LICENSE.txt": "/climapp/static/js/2.b562bfcc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8520d1c6.js",
     "static/js/2.b562bfcc.chunk.js",
-    "static/css/main.ad148ef5.chunk.css",
-    "static/js/main.5d097147.chunk.js"
+    "static/css/main.4338d536.chunk.css",
+    "static/js/main.2bf2de88.chunk.js"
   ]
 }
