@@ -13,7 +13,7 @@ export default function SearchBar({ onSearch }) {
   return (
     <section className="searchSection">
       <div className="searchBar">
-      <form onSubmit={onSubmit}>
+      <form onSubmit={onSubmit} autoComplete="off">
         <input
           className="inp-search"
           id="inputText"

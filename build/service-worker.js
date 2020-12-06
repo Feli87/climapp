@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wather-app/precache-manifest.84e14b2b7921336c559e6bc77f88482e.js"
+  "/wather-app/precache-manifest.72264686481f8aec43ad3da2a34c2692.js"
 );
 
 self.addEventListener('message', (event) => {

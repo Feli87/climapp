@@ -1,6 +1,6 @@
 import React from 'react';
 import './Card.css';
-import swal from '@sweetalert/with-react'
+import swal from '@sweetalert/with-react';
 export default function Card ({min, max, name , humidity, pressure, seaLevel, img, onClose}) {
     return (
       <div className="card">
@@ -8,7 +8,9 @@ export default function Card ({min, max, name , humidity, pressure, seaLevel, im
             <button onClick={onClose} className="btn btn-sm btn-danger">X</button>
         </div>
         <div className="card-body">
-          <h4 className="card-title">{name}</h4>
+          <div>
+            <h4 className="card-title">{name}</h4>
+          </div>
           <div className="row">
             <div className="col-sm-4 col-md-4 col-lg-4">
               <p className="min">Min<span className="min-arrow">&#8595;</span></p>
@@ -19,15 +21,17 @@ export default function Card ({min, max, name , humidity, pressure, seaLevel, im
               <p className="num-max">{max}°</p>
             </div>
             <div className="col-sm-4 col-md-4 col-lg-4">
-            <img className="iconoClima" src={"http://openweathermap.org/img/wn/"+img+"@2x.png"} width="80" height="80" alt="" />
+            <img className="iconoClima" src={`https://openweathermap.org/img/wn/${img}@2x.png`} width="80" height="80" alt="icon" />
             </div>
           </div>
         </div>
-        <div className="text-center mb-1"><button className="btn-full-data" onClick={fullData}>Full Data</button></div>
+        <div className="text-center mb-1">
+          <button className="btn-full-data" onClick={getFullData}>Full Data</button>
+        </div>
       </div>
     );
 
-    function fullData(){
+    function getFullData(){
       swal(
         <div>
           <h3 className="title-full-data">Full Data</h3>
@@ -62,5 +66,5 @@ export default function Card ({min, max, name , humidity, pressure, seaLevel, im
         buttons: 'Close',
         dangerMode: true,
       });
-    }
-};
+    };
+  };

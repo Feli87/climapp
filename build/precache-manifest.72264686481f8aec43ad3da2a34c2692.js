@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cacf9be897015914f14d72dafa6d789",
+    "revision": "604eea62c08bb04d15579d2d7587f443",
     "url": "/wather-app/index.html"
   },
   {
-    "revision": "b37e17d476527d79c3c7",
+    "revision": "c19a55015397ed32bf32",
     "url": "/wather-app/static/css/main.d56f8f3f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wather-app/static/js/2.4073a6dd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b37e17d476527d79c3c7",
-    "url": "/wather-app/static/js/main.fdb1a1dd.chunk.js"
+    "revision": "c19a55015397ed32bf32",
+    "url": "/wather-app/static/js/main.77775460.chunk.js"
   },
   {
     "revision": "eee3895ce450f80ecd91",

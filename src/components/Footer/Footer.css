@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
+
 .footer{
   display: flex;
   position: fixed;
@@ -6,6 +8,7 @@
   height: auto;
   padding: 5px;
   justify-content: center;
+  align-items: center;
   background-color: black;
   border-top: yellow solid 2px;
   z-index: 2;
@@ -13,5 +16,9 @@
 
 
 .title-footer{
+  display: flex;
+  padding-top: 5px;
+  font-family: 'Inconsolata', monospace;
   color: white;
+  align-self: center;
 }

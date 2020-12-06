@@ -4,6 +4,7 @@
   color:black;
   background: rgb(0,0,0);
   background: linear-gradient(177deg, rgba(0,0,0,1) 0%, rgba(255,255,255,1) 35%, rgba(244,250,5,1) 100%);
+  border-radius: 0px 0px 12px 12px;
 }
 
 .card-title {
@@ -57,6 +58,7 @@
   margin-right: 15px;
   margin-left: 5px;
   padding: 4px;
+  border-radius: 0px 0px 8px 8px;
 }
 .btn-full-data:hover{
   background-color: rgb(218, 211, 15);

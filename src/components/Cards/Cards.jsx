@@ -1,7 +1,6 @@
 import React from 'react';
+import Card from '../Card/Card.jsx';
 import './Cards.css';
-import Card from './Card.jsx';
-
 export default function Cards({cities, onClose}) {
   if(cities && cities.length >= 1){
     return (
@@ -24,7 +23,7 @@ export default function Cards({cities, onClose}) {
     );
   } else {
     return(
-      <div className="sin-ciudades">You can search and add cities or countries from the form &#8593;</div>
+      <div className="non-cities">You can search and add cities or countries from the form &#8593;</div>
     )
   }
 }

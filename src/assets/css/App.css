@@ -1,15 +1,26 @@
+body{
+  margin: 0px;
+  background-color: rgb(41, 39, 39);
+}
 .App {
   margin-top: 50px;
   text-align: center;
+}
+.sub-nav{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.sub-sub-nav{
+  width: 50%;
+
 }
 
 .row {
   display: flex;
   justify-content: center;
 }
-body{
-  background-color: rgb(41, 39, 39);
-}
+
 .alert{
   background-color: black;
   border: yellow solid 2px;

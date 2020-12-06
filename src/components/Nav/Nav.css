@@ -1,8 +1,7 @@
 #logoHenry {
   margin-right: 0px;
-
-
 }
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 .box{
   display: flex;
   position: fixed;
@@ -10,6 +9,8 @@
   width: 100%;
   height: auto;
   padding: 5px;
+  padding-left: 11px;
+  padding-bottom: 11px;
   justify-content: space-between;
   background-color: black;
   border-bottom: yellow solid 2px;
@@ -24,5 +25,14 @@
   height: auto;
 }
 .title{
+  display: flex;
+  flex-direction: row;
   color: white;
+}
+.logo-text{
+  font-family: 'Inconsolata', monospace;
+  color:yellow;
+  padding-top: 5px;
+  padding-right: 2px;
+  font-size: 24px;
 }

@@ -3,13 +3,16 @@
   flex-wrap: wrap;
   justify-content: center;
 }
-.sin-ciudades{
+.non-cities{
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 280px ;
+  margin-top: 185px ;
   height: 100px;
   background-color: rgb(225, 211, 16);
   color: black;
-  font-size: 32px;
+  font-size: 24px;
+  margin-left: 16%;
+  margin-right: 16%;
+  border-radius: 5px 5px 5px 5px;
 }
