@@ -1,6 +1,6 @@
 {
   "name": "weather-react",
-  "homepage": "https://feli87.github.io/wather-app/",
+  "homepage": "https://feli87.github.io/climapp/",
   "version": "0.2.0",
   "private": true,
   "dependencies": {
