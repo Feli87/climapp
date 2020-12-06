@@ -11,7 +11,7 @@
   margin-bottom: 15px;
 }
 
-#closeIcon {
+.close-icon {
   display: flex;
   justify-content: flex-end;
   margin-right: 8px;

@@ -29,7 +29,7 @@ input:-webkit-autofill:active  {
     color: yellow;
     outline: none;
 }
-.searchSection{
+.search-section{
     margin-top: 5px;
 }
 .inp-search{

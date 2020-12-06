@@ -4,7 +4,7 @@ import swal from '@sweetalert/with-react';
 export default function Card ({min, max, name , humidity, pressure, seaLevel, img, onClose}) {
     return (
       <div className="card">
-        <div id="closeIcon" className="row">
+        <div className="row close-icon">
             <button onClick={onClose} className="btn btn-sm btn-danger">X</button>
         </div>
         <div className="card-body">
